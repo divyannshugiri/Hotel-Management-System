@@ -1,10 +1,11 @@
 # Hotel-Management-System
 
-Simple hotel booking website with content management system. Users can book rooms for specific dates. Admin can create, update, and delete room details. Admin can manage everything in the app.
+This is a Hotel Booking System that allows users to book rooms for specific dates. Admins can manage room details, availability, and other content through an integrated Content Management System (CMS).
 
-## Video
-<!--<a href="https://www.youtube.com/watch?v=rKwBxxVXWkM">click here..</a>-->
-https://github.com/tushar-2223/Hotel-Management-System/assets/87109400/08742fd7-5e7b-4459-90ef-c4e6b3e0cabd
+## Key Features
+1. User Side: Book rooms for specific dates, view room availability, and manage bookings.
+2. Admin Side: Add, update, delete room details, manage bookings, and modify website content.
+
 
 ## Tech Stack 
 
@@ -29,20 +30,10 @@ Open the link "http://localhost/Hotel-Management-System/"
 Now register and login
 ```
 
-## Requirements Linux[Rocky Linux 9]:
-
-```sh
-1 Install dnf package manager
-2 Clone this repository in your home directory
-3 Enable execute permissions on setup.sh `chmod 755 setup.sh`
-4 Login as root or use `sudo su - root`
-5 Run setup.sh `./setup.sh`
-Open the link "http://localhost/Hotel-Management-System/"
-Now register and login
-```
 
 
-### login page
+
+### Login Page
 
 ```sh
 == Staff Login ==
