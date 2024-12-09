@@ -25,9 +25,9 @@ BOOTSTRAP
 3 Run XAMPP and start "Apache" and "MySQL"
 4 Open the link "localhost/phpmyadmin/"
 5 Click on new at sidebar and create a database name "tajhotel"
-After clicking database click import and select the file "tajhotel.sql"
-Open the link "http://localhost/Hotel-Management-System/"
-Now register and login
+6 After clicking database click import and select the file "tajhotel.sql"
+7 Open the link "http://localhost/Hotel-Management-System/"
+8 Now register and login
 ```
 
 
