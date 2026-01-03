@@ -92,13 +92,13 @@ ul li a:hover{
     height: 100vh;
     background-color: rgba(175, 175, 222, 0.511);
     width: 100%;
-    /* z-index: 2000; */
+
 }
 
 #firstsection .carousel-inner{
     width: 100%;
     height: 100vh;
-    /* padding: 0 50px; */
+   
 }
 #firstsection .carousel-inner::after{
     content: "";
