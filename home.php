@@ -3,7 +3,7 @@
 include 'config.php';
 session_start();
 
-// page redirect
+
 $usermail="";
 $usermail=$_SESSION['usermail'];
 if($usermail == true){
