@@ -21,7 +21,7 @@ body {
 .carousel_section{
     box-shadow: var(--bg-box-shadow);
 }
-/* side photo css */
+/* side photo */
 section {
     height: 100%;
     width: 50%;
